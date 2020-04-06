@@ -3,7 +3,6 @@
 Visit [inertiajs.com](https://inertiajs.com/) to learn more.
 
 # Prerequisite
-TEST
 
 1. Latest SDK [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 2. Create `ASP.NET Core Web App (Model-View-Controller) mvc` project.
